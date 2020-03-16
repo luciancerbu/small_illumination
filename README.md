@@ -29,8 +29,7 @@ an example can be :
 * Lights will switch ON when movement is detected on each floor(or only the light bulb from movement detection floor) and will turn OFF after a delay(also decided by used).
 * Ligths will be completly OFF during day
 * Lights will be set to 10% during night without movement detection
-
-
+* Day/Night cycle will be determined by sun position for current geographic position
 
 
 
