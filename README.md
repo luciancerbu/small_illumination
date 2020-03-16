@@ -6,7 +6,7 @@ Using Hassio with Raspberry Pi and Zigbee communication protocol
 
 ### Components that can be used : 
 
-* Raspberry Pi 4B(including 16gb microSD card and charger) [mandatory]
+* Raspberry Pi 4B(including 16gb microSD card and charger) [mandatory] [local store](https://www.optimusdigital.ro/ro/placi-raspberry-pi/8616-raspberry-pi-4-model-b2gb-765756931175.html)
   * with CC2531[mandatory] [store: banggood](https://www.banggood.com/Wireless-Zigbee-CC2531-Sniffer-Bare-Board-Packet-Protocol-Analyzer-Module-USB-Interface-Dongle-p-1227206.html?rmmds=search&cur_warehouse=CN)
   * Programmer for CC2531[optional] [store: banggood]()
 * Light bulbs with Zigbee[mandatory]
